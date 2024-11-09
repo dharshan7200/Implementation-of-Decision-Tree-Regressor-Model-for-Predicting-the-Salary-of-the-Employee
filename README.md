@@ -60,6 +60,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+## HEAD:
 ![Screenshot 2024-10-29 135211](https://github.com/user-attachments/assets/4eb89322-5372-4b72-a34e-179aea7dda14)
 
 ## MSE:
